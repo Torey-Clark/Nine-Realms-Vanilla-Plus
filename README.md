@@ -1,7 +1,7 @@
 # Nine Realms Vanilla+
 
 This repo is the list of all mods used in our modded Minecraft server.
-Each release will include the complete modpack for the Prism Launcher and the Curseforge Launcher.
+Each release will include the complete modpack for the Prism Launcher, the Modrinth Launcher, and the Curseforge Launcher.
 
 ## Modlist
 
