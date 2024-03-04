@@ -117,7 +117,6 @@ Each release will include the complete modpack for the Prism Launcher, the Modri
 - [Retraining](https://modrinth.com/mod/Iugiwphr) [1.5.0] by Mrbysco, ShyNieke
 - [Chunks Fade In](https://modrinth.com/mod/JaNmzvA8) [1.0.2-1.20.2] by Koteinik
 - [Gen Assets](https://modrinth.com/mod/ZRGZa67i) [BBrp3RXs]
-- [More Armor Trims](https://modrinth.com/mod/FGNYBAJ6) [1.1.3-1.20.1] by Masik16u
 - [Data API](https://modrinth.com/mod/ZS3lIxKu) [0.2] by GenMode
 - [Cloth Config v13](https://modrinth.com/mod/9s6osm5g) [13.0.121] by shedaniel
 - [Additional Structures](https://modrinth.com/mod/TWsbC6jW) [4.2.1] by XxRexRaptorxX
@@ -129,6 +128,13 @@ Each release will include the complete modpack for the Prism Launcher, the Modri
 - [Clumps](https://modrinth.com/mod/Wnxd13zP) [15.0.0.2] by Jared
 - [Better Ping Display](https://modrinth.com/mod/MS1ZMyR7) [1.1.1] by Quintinity
 - [DarkPaintings](https://modrinth.com/mod/lFGQ4Hnk) [20.0.3] by Darkhax
+- [Macaw's Furniture](https://modrinth.com/mod/dtWC90iB) [3.2.2] by Sketch Macaw & Peachy Macaw
+- [AdditionalBanners](https://modrinth.com/mod/AVPTFuxC) [17.0.2] by Darkhax
+- [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1.7.2+mc1.20.4-build.102] by FlashyReese
+- [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) [2.25] by Ivan Molodetskikh (YaLTeR)
+- [Elytra Trims](https://modrinth.com/mod/XpzGz7KD) [2.0.3] by KikuGie
+- [Elytra Trinket](https://modrinth.com/mod/wk57PrDM) [1.0.5] by Travis Martin
+- [Trinkets](https://modrinth.com/mod/5aaWibi9) [3.8.0] by Emi, C4
 - [Macaw's Furniture](https://modrinth.com/mod/dtWC90iB) [3.2.2] by Sketch Macaw & Peachy Macaw
 - [AdditionalBanners](https://modrinth.com/mod/AVPTFuxC) [17.0.2] by Darkhax
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1.7.2+mc1.20.4-build.102] by FlashyReese
