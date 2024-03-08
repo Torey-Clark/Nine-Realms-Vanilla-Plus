@@ -23,7 +23,6 @@ Each release will include the complete modpack for the Prism Launcher, the Modri
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3.3.2+1.20.4] by isXander
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) [2.4.8] by ThatGravyBoat, Epic_Oreo
 - [Roughly Enough Items](https://modrinth.com/mod/nfn13YXA) [14.0.688] by shedaniel
-- [Enchantment Reveal](https://modrinth.com/mod/Xht4wlLG) [1.0.0] by CrownSheep
 - [Capes](https://modrinth.com/mod/89Wsn8GD) [1.5.3+1.20.2] by Cael
 - [Macaw's Paths and Pavings](https://modrinth.com/mod/VRLhWB91) [1.0.4] by Sketch Macaw, Peachy Macaw
 - [BetterF3](https://modrinth.com/mod/8shC1gFX) [9.0.0] by cominixo, TreyRuffy
@@ -51,7 +50,6 @@ Each release will include the complete modpack for the Prism Launcher, the Modri
 - [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) [3.8.1+fabric-1.20.4] by TheCSDev
 - [ItemLore](https://modrinth.com/mod/ZXr70n5I) [0.1-1.20.2] by quantumaidan
 - [Chat Signing Hider](https://modrinth.com/mod/6KrNtW32) [1.20.4-1.0.5] by Max Henkel
-- [Better Ping Display](https://modrinth.com/mod/MS1ZMyR7) [1.1.1] by Quintinity
 - [Macaw's Roofs](https://modrinth.com/mod/B8jaH3P1) [2.3.0] by SketchMacaw
 - [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) [20.4.31] by Fuzs
 - [No Enchant Block](https://modrinth.com/mod/wP2OLp8w) [2.0] by michaelo
@@ -67,7 +65,6 @@ Each release will include the complete modpack for the Prism Launcher, the Modri
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1.7.2+mc1.20.4-build.102] by FlashyReese
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/w4an97C2) [1.0.6] by SketchMacaw
 - [Balm](https://modrinth.com/mod/MBAkmtvl) [9.0.5] by BlayTheNinth
-- [Hey That's Mine](https://modrinth.com/mod/IEPAK5x6) [1.1.11] by Potatoboy9999
 - [Elytra Trims](https://modrinth.com/mod/XpzGz7KD) [2.0.3] by KikuGie
 - [Fabric Waystones](https://modrinth.com/mod/sTZr7NVo) [3.3.2+mc1.20.4] by LordDeatHunter
 - [Iris](https://modrinth.com/mod/YL57xq9U) [1.6.17] by coderbot, IMS212, Justsnoopy30, FoundationGames
@@ -142,3 +139,4 @@ Each release will include the complete modpack for the Prism Launcher, the Modri
 - [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) [1.6.14] by Neecko5b84
 - [Legendary Tooltips](https://modrinth.com/mod/atHH8NyV) [1.4.5] by Grend
 - [Passive Endermen](https://modrinth.com/mod/N7UFQA9x) [4.6] by Rick South
+- [Get Off My Lawn ReServed](https://modrinth.com/mod/j5niDupl) [`1.11.0`+1.20.3-rc1] by Patbox, Draylar (Original author)
