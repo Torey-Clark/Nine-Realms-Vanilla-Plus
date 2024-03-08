@@ -5,137 +5,140 @@ Each release will include the complete modpack for the Prism Launcher, the Modri
 
 ## Modlist
 
-- [Faux-Custom-Entity-Data](https://modrinth.com/mod/E7ZFR7qk) [9.0.1]
-- [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) [1.6.14] by Neecko5b84
-- [Tax Free Levels](https://modrinth.com/mod/jCBrrLTs) [1.3.9] by Fourmisain
-- [Inventory Management](https://modrinth.com/mod/F7wXag4i) [1.5.0] by Roundaround
-- [Macaw's Roofs](https://modrinth.com/mod/B8jaH3P1) [2.3.0] by SketchMacaw
-- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1.37.8] by Xaero96
-- [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) [1.20.4-2.2.3-fabric] by ChaosTheDude
-- [Pickable Villagers](https://modrinth.com/mod/lMRqnKVq) [1.4.5+1.20.4] by iamshift
-- [Ash API](https://modrinth.com/mod/Q8xUICr6) [20.4.0] by Trikzon
-- [Mineblock's Repeated Utilities](https://modrinth.com/mod/SNVQ2c0g) [0.4.0+1.20.4] by mineblock11
-- [3d-Skin-Layers](https://modrinth.com/mod/zV5r3pPn) [1.6.2] by tr7zw
-- [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n) [1.10.9] by mirinimi/blackd
-- [Better Beacon Placement](https://modrinth.com/mod/GOKA9KZY) [3.3] by Rick South
-- [ItemLore](https://modrinth.com/mod/ZXr70n5I) [0.1-1.20.2] by quantumaidan
-- [Voice Chat Interaction](https://modrinth.com/mod/qsSP2ZZ0) [1.20.4-1.0.6] by Max Henkel
-- [Beautify](https://modrinth.com/mod/DhSSvaxs) [1.2.0+1.20.4] by Suel_ki
-- [Better Conduit Placement](https://modrinth.com/mod/lRF5nzIz) [3.2] by Rick South
-- [ThirdPersonBoating](https://modrinth.com/mod/QCPupgrj) [1.0.0] by Caoimhe Byrne
-- [Logical Zoom](https://modrinth.com/mod/8bOImuGU) [0.0.22] by LogicalGeekBoy
-- [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) [2.3.4+1.20.4] by LambdAurora
-- [Macaw's Windows](https://modrinth.com/mod/C7I0BCni) [2.2.1] by SketchMacaw
-- [Decorative Blocks](https://modrinth.com/mod/t6BIRVZn) [5.0.2] by Lilypuree, Stohun
-- [Handcrafted](https://modrinth.com/mod/pJmCFF0p) [3.2.1] by Alex Nijjar, Kekie6
-- [Roughly Enough Items](https://modrinth.com/mod/nfn13YXA) [14.0.688] by shedaniel
-- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [2.5.1+mc1.20.3] by squeek502
-- [YUNG's API](https://modrinth.com/mod/Ua7DFN59) [1.20.4-Fabric-4.4.1] by YUNGNICKYOUNG
-- [Iris](https://modrinth.com/mod/YL57xq9U) [1.6.17] by coderbot, IMS212, Justsnoopy30, FoundationGames
-- [Slime](https://modrinth.com/mod/qpnMRvwM) [1.8] by AmeliaMartinson
-- [Macaw's Trapdoors](https://modrinth.com/mod/n2fvCDlM) [1.1.2] by SketchMacaw
-- [Enchantment Reveal](https://modrinth.com/mod/Xht4wlLG) [1.0.0] by CrownSheep
-- [Controlling](https://modrinth.com/mod/xv94TkTM) [15.0.2] by Jaredlll08
-- [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [0.10.31] by dzwdz, Fourmisain
-- [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0.12.1] by JellySquid, 2No2Name
-- [AnvilRepairing](https://modrinth.com/mod/gY0sChT6) [7.0.1] by Darkhax
-- [Universal Shops](https://modrinth.com/mod/cnIatHrN) [1.5.0+1.20.3] by Patbox
-- [Macaw's Doors](https://modrinth.com/mod/kNxa8z3e) [1.1.0] by Sketch Macaw & Peachy Macaw
-- [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) [20.4.1] by Fuzs
-- [Gravel Miner](https://modrinth.com/mod/iAzrhsju) [18.0.1] by BlayTheNinth
-- [Xaero's Minimap](https://modrinth.com/mod/JkSi2Fzx) [23.9.6] by Xaero96
-- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) [20.4.31] by Fuzs
-- [Balm](https://modrinth.com/mod/MBAkmtvl) [9.0.5] by BlayTheNinth
-- [Mod Menu](https://modrinth.com/mod/mOgUt4GM) [9.0.0] by Prospector, haykam821, TerraformersMC
-- [No Enchant Block](https://modrinth.com/mod/wP2OLp8w) [2.0] by michaelo
-- [Chipped](https://modrinth.com/mod/BAscRYKm) [3.1.2] by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat
-- [Sound Controller](https://modrinth.com/mod/uY9zbflw) [1.0.3] by BVengo
-- [Better End Sky](https://modrinth.com/mod/SgJ1iW80) [0.2.1+1.20] by paulevs, BetterX Team
-- [CraftTweaker](https://modrinth.com/mod/Xg35A4rS) [17.0.12] by Jaredlll08, Kindlich, StanHebben and TheSilkMiner
-- [Macaw's Holidays](https://modrinth.com/mod/rH20L2Lp) [1.1.0] by Sketch Macaw and Sketch Peachy
-- [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq) [4.0.8+1.20.4] by MisterPeModder
-- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1.10.18+kotlin.1.9.22] by FabricMC
-- [Better Mount HUD](https://modrinth.com/mod/kqJFAPU9) [1.2.2] by Lortseam
-- [Macaw's Lights and Lamps](https://modrinth.com/mod/w4an97C2) [1.0.6] by SketchMacaw
-- [oωo](https://modrinth.com/mod/ccKDOlHs) [0.12.5+1.20.3] by glisco
-- [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) [2.4.8] by ThatGravyBoat, Epic_Oreo
-- [Mouse Wheelie](https://modrinth.com/mod/u5Ic2U1u) [1.13.3+mc1.20.4] by Siphalor
-- [BetterF3](https://modrinth.com/mod/8shC1gFX) [9.0.0] by cominixo, TreyRuffy
-- [BetterSmithingTable](https://modrinth.com/mod/Vt8TI045) [1.1.2] by jjblock21
-- [Enchanted Vertical Slabs](https://modrinth.com/mod/TG1cHkRf) [1.9.2] by Enchanted Games [programming]
-- [Better Archeology](https://modrinth.com/mod/zCh7omyG) [1.1.6-1.20.4] by Pandarix, Dunk3ll1cht
-- [Architectury](https://modrinth.com/mod/lhGA9TYQ) [11.0.12] by shedaniel
-- [Chat Signing Hider](https://modrinth.com/mod/6KrNtW32) [1.20.4-1.0.5] by Max Henkel
-- [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) [3.8.1+fabric-1.20.4] by TheCSDev
-- [Better Enchanted Books](https://modrinth.com/mod/yjpXhps7) [1.4.4] by Bernasss12
-- [FerriteCore](https://modrinth.com/mod/uXXizFIs) [6.0.3] by malte0811
-- [Macaw's Paths and Pavings](https://modrinth.com/mod/VRLhWB91) [1.0.4] by Sketch Macaw, Peachy Macaw
-- [Freecam (Modrinth Edition)](https://modrinth.com/mod/XeEZ3fK2) [1.2.3] by hashalite, Matt Sturgeon
-- [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) [1.7.1] by tr7zw
-- [Fabric Waystones](https://modrinth.com/mod/sTZr7NVo) [3.3.2+mc1.20.4] by LordDeatHunter
-- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1.6.3.1] by tr7zw
-- [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) [20.4.3] by Fuzs
-- [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) [1.20.4-2.10.3] by MehVahdJukaar
-- [Chest Tracker](https://modrinth.com/mod/ni4SrKmq) [2.2.3+1.20.4] by JackFred
-- [Searchables](https://modrinth.com/mod/fuuu3xnx) [1.0.3] by Jaredlll08
-- [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) [1.1.17] by SuperMartijn642
 - [Server Resource Pack Checker](https://modrinth.com/mod/fCpuZIcM) [1.20.4-1.2.1] by Max Henkel
-- [Hey That's Mine](https://modrinth.com/mod/IEPAK5x6) [1.1.11] by Potatoboy9999
-- [View Distance Fix](https://modrinth.com/mod/nxrXbh5K) [1.20.4-1.0.2] by Max Henkel
-- [Show Me Your Skin!](https://modrinth.com/mod/bD7YqcA3) [1.7.1+1.20.4] by enjarai
-- [Armor Visibility](https://modrinth.com/mod/kvPlmCLX) [20.4.1] by Trikzon
-- [Better Third Person](https://modrinth.com/mod/G1s2WpNo) [1.9.0] by Socolio, DreenDex
-- [Passive Endermen](https://modrinth.com/mod/N7UFQA9x) [4.6] by Rick South
-- [Macaw's Bridges](https://modrinth.com/mod/GURcjz8O) [2.1.0] by SketchMacaw
+- [Pickable Villagers](https://modrinth.com/mod/lMRqnKVq) [1.4.5+1.20.4] by iamshift
 - [Universal Graves](https://modrinth.com/mod/yn9u3ypm) [3.2.1+1.20.3] by Patbox
-- [libIPN](https://modrinth.com/mod/onSQdWhM) [4.0.1] by mirinimi/blackd
-- [Sodium](https://modrinth.com/mod/AANobbMI) [0.5.8+mc1.20.4] by @jellysquid3
-- [EnchantmentDescriptions](https://modrinth.com/mod/UVtY3ZAC) [20.0.1] by Darkhax
+- [YUNG's API](https://modrinth.com/mod/Ua7DFN59) [1.20.4-Fabric-4.4.1] by YUNGNICKYOUNG
 - [Collective](https://modrinth.com/mod/e0M1UDsY) [7.31] by Rick South
-- [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) [1.20.4-2.5.5] by Max Henkel
-- [Easy Magic](https://modrinth.com/mod/9hx3AbJM) [20.4.0] by Fuzs
-- [Fabric API](https://modrinth.com/mod/P7dR8mSH) [0.96.3+1.20.4] by FabricMC
-- [WaveyCapes](https://modrinth.com/mod/kYuIpRLv) [1.4.3] by tr7zw
-- [Macaw's Paintings](https://modrinth.com/mod/okE6QVAY) [1.0.5] by Sketch Peachy and Sketch Macaw
-- [Legendary Tooltips](https://modrinth.com/mod/atHH8NyV) [1.4.5] by Grend
-- [Explosive Enhancement](https://modrinth.com/mod/OSQ8mw2r) [1.2.2-1.20.x] by Superkat32
-- [Armor Chroma](https://modrinth.com/mod/pJnbPs9G) [1.2.6] by jobicade, Neecko5b84 (fork)
+- [Chest Tracker](https://modrinth.com/mod/ni4SrKmq) [2.2.3+1.20.4] by JackFred
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) [0.5.4+mc1.20.4-build.116] by FlashyReese
-- [Prism](https://modrinth.com/mod/1OE8wbN0) [1.0.6] by Grend
-- [Additional Lanterns](https://modrinth.com/mod/jXNvTKds) [1.1.1+a] by SuperMartijn642
-- [Underwater Enchanting](https://modrinth.com/mod/e8JtTY4h) [2.7] by Rick South
-- [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) [23.0.4] by Darkhax
-- [AudioPlayer](https://modrinth.com/mod/SRlzjEBS) [1.20.4-1.8.8] by Max Henkel
+- [Armor Visibility](https://modrinth.com/mod/kvPlmCLX) [20.4.1] by Trikzon
+- [Better Archeology](https://modrinth.com/mod/zCh7omyG) [1.1.6-1.20.4] by Pandarix, Dunk3ll1cht
+- [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) [1.7.1] by tr7zw
+- [Additional Structures](https://modrinth.com/mod/TWsbC6jW) [4.2.1] by XxRexRaptorxX
 - [Iceberg](https://modrinth.com/mod/5faXoLqX) [1.1.18] by Grend
-- [Jade](https://modrinth.com/mod/nvQzSEkH) [13.3.1] by Snownee
+- [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) [20.4.1] by Fuzs
+- [AnvilRepairing](https://modrinth.com/mod/gY0sChT6) [7.0.1] by Darkhax
+- [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq) [4.0.8+1.20.4] by MisterPeModder
+- [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3.3.2+1.20.4] by isXander
+- [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) [2.4.8] by ThatGravyBoat, Epic_Oreo
+- [Roughly Enough Items](https://modrinth.com/mod/nfn13YXA) [14.0.688] by shedaniel
+- [Enchantment Reveal](https://modrinth.com/mod/Xht4wlLG) [1.0.0] by CrownSheep
+- [Capes](https://modrinth.com/mod/89Wsn8GD) [1.5.3+1.20.2] by Cael
+- [Macaw's Paths and Pavings](https://modrinth.com/mod/VRLhWB91) [1.0.4] by Sketch Macaw, Peachy Macaw
+- [BetterF3](https://modrinth.com/mod/8shC1gFX) [9.0.0] by cominixo, TreyRuffy
+- [Universal Shops](https://modrinth.com/mod/cnIatHrN) [1.5.0+1.20.3] by Patbox
+- [Macaw's Furniture](https://modrinth.com/mod/dtWC90iB) [3.2.2] by Sketch Macaw & Peachy Macaw
+- [Explosive Enhancement](https://modrinth.com/mod/OSQ8mw2r) [1.2.2-1.20.x] by Superkat32
+- [Athena](https://modrinth.com/mod/b1ZV3DIJ) [3.3.0] by ThatGravyBoat
+- [oωo](https://modrinth.com/mod/ccKDOlHs) [0.12.5+1.20.3] by glisco
+- [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) [1.1.17] by SuperMartijn642
+- [Macaw's Trapdoors](https://modrinth.com/mod/n2fvCDlM) [1.1.2] by SketchMacaw
+- [Falling Leaves](https://modrinth.com/mod/WhbRG4iK) [1.15.4] by Fourmisain, BrekiTomasson, RandomMcSomethin
+- [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) [1.1.5] by FX - PR0CESS
+- [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) [20.4.3] by Fuzs
+- [Comforts](https://modrinth.com/mod/SaCpeal4) [7.1.0+1.20.4] by Illusive Soulworks
+- [Monsters in the Closet](https://modrinth.com/mod/GMA8jFBD) [1.0.3+1.20] by Minenash
+- [No Telemetry](https://modrinth.com/mod/hg77g4Pw) [1.8.0
+] by kb1000
+- [Better Beacon Placement](https://modrinth.com/mod/GOKA9KZY) [3.3] by Rick South
+- [Gravel Miner](https://modrinth.com/mod/iAzrhsju) [18.0.1] by BlayTheNinth
+- [Macaw's Bridges](https://modrinth.com/mod/GURcjz8O) [2.1.0] by SketchMacaw
+- [Macaw's Windows](https://modrinth.com/mod/C7I0BCni) [2.2.1] by SketchMacaw
+- [BetterSmithingTable](https://modrinth.com/mod/Vt8TI045) [1.1.2] by jjblock21
+- [Armor Chroma](https://modrinth.com/mod/pJnbPs9G) [1.2.6] by jobicade, Neecko5b84 (fork)
+- [Fabric API](https://modrinth.com/mod/P7dR8mSH) [0.96.3+1.20.4] by FabricMC
+- [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) [3.8.1+fabric-1.20.4] by TheCSDev
+- [ItemLore](https://modrinth.com/mod/ZXr70n5I) [0.1-1.20.2] by quantumaidan
+- [Chat Signing Hider](https://modrinth.com/mod/6KrNtW32) [1.20.4-1.0.5] by Max Henkel
+- [Better Ping Display](https://modrinth.com/mod/MS1ZMyR7) [1.1.1] by Quintinity
+- [Macaw's Roofs](https://modrinth.com/mod/B8jaH3P1) [2.3.0] by SketchMacaw
+- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) [20.4.31] by Fuzs
+- [No Enchant Block](https://modrinth.com/mod/wP2OLp8w) [2.0] by michaelo
+- [Better Third Person](https://modrinth.com/mod/G1s2WpNo) [1.9.0] by Socolio, DreenDex
+- [Handcrafted](https://modrinth.com/mod/pJmCFF0p) [3.2.1] by Alex Nijjar, Kekie6
+- [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) [2.25] by Ivan Molodetskikh (YaLTeR)
+- [Better End Sky](https://modrinth.com/mod/SgJ1iW80) [0.2.1+1.20] by paulevs, BetterX Team
+- [FerriteCore](https://modrinth.com/mod/uXXizFIs) [6.0.3] by malte0811
+- [Cloth Config v13](https://modrinth.com/mod/9s6osm5g) [13.0.121] by shedaniel
+- [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) [23.0.4] by Darkhax
+- [Better Enchanted Books](https://modrinth.com/mod/yjpXhps7) [1.4.4] by Bernasss12
+- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1.6.3.1] by tr7zw
+- [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1.7.2+mc1.20.4-build.102] by FlashyReese
+- [Macaw's Lights and Lamps](https://modrinth.com/mod/w4an97C2) [1.0.6] by SketchMacaw
+- [Balm](https://modrinth.com/mod/MBAkmtvl) [9.0.5] by BlayTheNinth
+- [Hey That's Mine](https://modrinth.com/mod/IEPAK5x6) [1.1.11] by Potatoboy9999
+- [Elytra Trims](https://modrinth.com/mod/XpzGz7KD) [2.0.3] by KikuGie
+- [Fabric Waystones](https://modrinth.com/mod/sTZr7NVo) [3.3.2+mc1.20.4] by LordDeatHunter
+- [Iris](https://modrinth.com/mod/YL57xq9U) [1.6.17] by coderbot, IMS212, Justsnoopy30, FoundationGames
+- [Ash API](https://modrinth.com/mod/Q8xUICr6) [20.4.0] by Trikzon
+- [Sodium](https://modrinth.com/mod/AANobbMI) [0.5.8+mc1.20.4] by @jellysquid3
+- [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n) [1.10.9] by mirinimi/blackd
+- [Tax Free Levels](https://modrinth.com/mod/jCBrrLTs) [1.3.9] by Fourmisain
+- [Enchanted Vertical Slabs](https://modrinth.com/mod/TG1cHkRf) [1.9.2] by Enchanted Games [programming]
+- [CraftTweaker](https://modrinth.com/mod/Xg35A4rS) [17.0.12] by Jaredlll08, Kindlich, StanHebben and TheSilkMiner
+- [Better Conduit Placement](https://modrinth.com/mod/lRF5nzIz) [3.2] by Rick South
+- [Easy Magic](https://modrinth.com/mod/9hx3AbJM) [20.4.0] by Fuzs
+- [Trinkets](https://modrinth.com/mod/5aaWibi9) [3.8.0] by Emi, C4
+- [Better Mount HUD](https://modrinth.com/mod/kqJFAPU9) [1.2.2] by Lortseam
+- [Show Me Your Skin!](https://modrinth.com/mod/bD7YqcA3) [1.7.1+1.20.4] by enjarai
+- [Voice Chat Interaction](https://modrinth.com/mod/qsSP2ZZ0) [1.20.4-1.0.6] by Max Henkel
+- [Elytra Trims Extensions](https://modrinth.com/mod/5edtQ4at) [2.0.0] by KikuGie
+- [Macaw's Doors](https://modrinth.com/mod/kNxa8z3e) [1.1.0] by Sketch Macaw & Peachy Macaw
+- [Macaw's Paintings](https://modrinth.com/mod/okE6QVAY) [1.0.5] by Sketch Peachy and Sketch Macaw
+- [Roughly Enough Professions](https://modrinth.com/mod/V8XJ8f5f) [2.2.0] by Mrbysco, ShyNieke
+- [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) [1.20.4-2.2.3-fabric] by ChaosTheDude
+- [Clumps](https://modrinth.com/mod/Wnxd13zP) [15.0.0.2] by Jared
+- [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0.12.1] by JellySquid, 2No2Name
+- [3d-Skin-Layers](https://modrinth.com/mod/zV5r3pPn) [1.6.2] by tr7zw
+- [Exordium](https://modrinth.com/mod/DynYZEae) [1.2.1] by tr7zw
+- [Data API](https://modrinth.com/mod/ZS3lIxKu) [0.2] by GenMode
+- [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [0.10.31] by dzwdz, Fourmisain
+- [EnchantmentDescriptions](https://modrinth.com/mod/UVtY3ZAC) [20.0.1] by Darkhax
+- [Dynamic Fullbright](https://modrinth.com/mod/tF7P4IlX) [1.2.0] by Provismet
+- [ThirdPersonBoating](https://modrinth.com/mod/QCPupgrj) [1.0.0] by Caoimhe Byrne
+- [Sound Controller](https://modrinth.com/mod/uY9zbflw) [1.0.3] by BVengo
+- [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) [2.3.4+1.20.4] by LambdAurora
+- [Faux-Custom-Entity-Data](https://modrinth.com/mod/E7ZFR7qk) [9.0.1]
+- [Inventory Management](https://modrinth.com/mod/F7wXag4i) [1.5.0] by Roundaround
+- [Controlling](https://modrinth.com/mod/xv94TkTM) [15.0.2] by Jaredlll08
+- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1.37.8] by Xaero96
+- [Bigger Better End Cities](https://modrinth.com/mod/A1ySbDYD) [1.20.4-1.0.4] by architects
+- [Chunks Fade In](https://modrinth.com/mod/JaNmzvA8) [1.0.2-1.20.2] by Koteinik
+- [Underwater Enchanting](https://modrinth.com/mod/e8JtTY4h) [2.7] by Rick South
+- [Better Hanging Signs](https://modrinth.com/mod/l6VVh2KR) [4] by efeketket
 - [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) [1.11.1] by Hurricaaane (Ha3), Sollace
 - [Camera Utils](https://modrinth.com/mod/rrwQMaWQ) [1.20.4-1.0.8] by Max Henkel
-- [Roughly Enough Professions](https://modrinth.com/mod/V8XJ8f5f) [2.2.0] by Mrbysco, ShyNieke
-- [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3.3.2+1.20.4] by isXander
-- [Athena](https://modrinth.com/mod/b1ZV3DIJ) [3.3.0] by ThatGravyBoat
-- [Dynamic Fullbright](https://modrinth.com/mod/tF7P4IlX) [1.2.0] by Provismet
+- [View Distance Fix](https://modrinth.com/mod/nxrXbh5K) [1.20.4-1.0.2] by Max Henkel
 - [Retraining](https://modrinth.com/mod/Iugiwphr) [1.5.0] by Mrbysco, ShyNieke
-- [Chunks Fade In](https://modrinth.com/mod/JaNmzvA8) [1.0.2-1.20.2] by Koteinik
-- [Gen Assets](https://modrinth.com/mod/ZRGZa67i) [BBrp3RXs]
-- [Data API](https://modrinth.com/mod/ZS3lIxKu) [0.2] by GenMode
-- [Cloth Config v13](https://modrinth.com/mod/9s6osm5g) [13.0.121] by shedaniel
-- [Additional Structures](https://modrinth.com/mod/TWsbC6jW) [4.2.1] by XxRexRaptorxX
-- [Bigger Better End Cities](https://modrinth.com/mod/A1ySbDYD) [1.20.4-1.0.4] by architects
-- [Coord Finder](https://modrinth.com/mod/kPkTtp4N) [1.20.4-1.1.0] by Max Henkel
-- [Elytra Trims Extensions](https://modrinth.com/mod/5edtQ4at) [2.0.0] by KikuGie
-- [Falling Leaves](https://modrinth.com/mod/WhbRG4iK) [1.15.4] by Fourmisain, BrekiTomasson, RandomMcSomethin
-- [Better Hanging Signs](https://modrinth.com/mod/l6VVh2KR) [4] by efeketket
-- [Clumps](https://modrinth.com/mod/Wnxd13zP) [15.0.0.2] by Jared
-- [Better Ping Display](https://modrinth.com/mod/MS1ZMyR7) [1.1.1] by Quintinity
-- [DarkPaintings](https://modrinth.com/mod/lFGQ4Hnk) [20.0.3] by Darkhax
-- [Macaw's Furniture](https://modrinth.com/mod/dtWC90iB) [3.2.2] by Sketch Macaw & Peachy Macaw
-- [AdditionalBanners](https://modrinth.com/mod/AVPTFuxC) [17.0.2] by Darkhax
-- [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1.7.2+mc1.20.4-build.102] by FlashyReese
-- [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) [2.25] by Ivan Molodetskikh (YaLTeR)
-- [Elytra Trims](https://modrinth.com/mod/XpzGz7KD) [2.0.3] by KikuGie
+- [Slime](https://modrinth.com/mod/qpnMRvwM) [1.8] by AmeliaMartinson
+- [Mod Menu](https://modrinth.com/mod/mOgUt4GM) [9.0.0] by Prospector, haykam821, TerraformersMC
+- [Searchables](https://modrinth.com/mod/fuuu3xnx) [1.0.3] by Jaredlll08
+- [Additional Lanterns](https://modrinth.com/mod/jXNvTKds) [1.1.1+a] by SuperMartijn642
+- [Logical Zoom](https://modrinth.com/mod/8bOImuGU) [0.0.22] by LogicalGeekBoy
+- [Chipped](https://modrinth.com/mod/BAscRYKm) [3.1.2] by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat
+- [WaveyCapes](https://modrinth.com/mod/kYuIpRLv) [1.4.3] by tr7zw
+- [Mineblock's Repeated Utilities](https://modrinth.com/mod/SNVQ2c0g) [0.4.0+1.20.4] by mineblock11
+- [AudioPlayer](https://modrinth.com/mod/SRlzjEBS) [1.20.4-1.8.8] by Max Henkel
+- [Xaero's Minimap](https://modrinth.com/mod/JkSi2Fzx) [23.9.6] by Xaero96
+- [Mouse Wheelie](https://modrinth.com/mod/u5Ic2U1u) [1.13.3+mc1.20.4] by Siphalor
+- [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) [1.20.4-2.5.5] by Max Henkel
 - [Elytra Trinket](https://modrinth.com/mod/wk57PrDM) [1.0.5] by Travis Martin
-- [Trinkets](https://modrinth.com/mod/5aaWibi9) [3.8.0] by Emi, C4
-- [Macaw's Furniture](https://modrinth.com/mod/dtWC90iB) [3.2.2] by Sketch Macaw & Peachy Macaw
+- [Coord Finder](https://modrinth.com/mod/kPkTtp4N) [1.20.4-1.1.0] by Max Henkel
+- [Beautify](https://modrinth.com/mod/DhSSvaxs) [1.2.0+1.20.4] by Suel_ki
+- [Freecam (Modrinth Edition)](https://modrinth.com/mod/XeEZ3fK2) [1.2.3] by hashalite, Matt Sturgeon
+- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1.10.18+kotlin.1.9.22] by FabricMC
+- [Architectury](https://modrinth.com/mod/lhGA9TYQ) [11.0.12] by shedaniel
+- [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) [1.20.4-2.10.3] by MehVahdJukaar
+- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [2.5.1+mc1.20.3] by squeek502
+- [libIPN](https://modrinth.com/mod/onSQdWhM) [4.0.1] by mirinimi/blackd
+- [Gen Assets](https://modrinth.com/mod/ZRGZa67i) [BBrp3RXs]
+- [Jade](https://modrinth.com/mod/nvQzSEkH) [13.3.1] by Snownee
+- [Prism](https://modrinth.com/mod/1OE8wbN0) [1.0.6] by Grend
+- [DarkPaintings](https://modrinth.com/mod/lFGQ4Hnk) [20.0.3] by Darkhax
+- [Decorative Blocks](https://modrinth.com/mod/t6BIRVZn) [5.0.2] by Lilypuree, Stohun
+- [Macaw's Holidays](https://modrinth.com/mod/rH20L2Lp) [1.1.0] by Sketch Macaw and Sketch Peachy
 - [AdditionalBanners](https://modrinth.com/mod/AVPTFuxC) [17.0.2] by Darkhax
-- [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1.7.2+mc1.20.4-build.102] by FlashyReese
-- [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) [2.25] by Ivan Molodetskikh (YaLTeR)
+- [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) [1.6.14] by Neecko5b84
+- [Legendary Tooltips](https://modrinth.com/mod/atHH8NyV) [1.4.5] by Grend
+- [Passive Endermen](https://modrinth.com/mod/N7UFQA9x) [4.6] by Rick South
